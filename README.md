@@ -6,11 +6,9 @@
 
 窗口为可视化训练过程，下方输出为每次训练的分数及当前的最高分数，代表训练过程
 
-#PLE环境配置
+#PLE环境安装及配置
 
 # PyGame-Learning-Environment
-
-![Games](ple_games.jpg?raw=True "Games!")
 
 **PyGame Learning Environment (PLE)** is a learning environment, mimicking the [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) interface, allowing a quick start to Reinforcement Learning in Python. The goal of PLE is allow practitioners to focus design of models and experiments instead of environment design.
 
